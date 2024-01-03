@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <anyType xsi:type="Electricity">
+    <Name>зщшгрпс</Name>
+    <Speed>1</Speed>
+    <Range>1</Range>
+    <Passangers>1</Passangers>
+    <Carriage>1</Carriage>
+  </anyType>
+  <anyType xsi:type="Passanger">
+    <Name>123</Name>
+    <Speed>22</Speed>
+    <Range>2</Range>
+    <Passangers>2</Passangers>
+  </anyType>
+</ArrayOfAnyType>

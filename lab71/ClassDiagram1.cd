@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab71.Angiosperm">
+    <Position X="1.25" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAABIAAAAAAAQAAAAAAAAAAEAAAAAAIgAAACAACAA=</HashCode>
+      <FileName>Angiosperm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="lab71.GymnoSperm">
+    <Position X="4.25" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAhIAAAAAAAQAAAAAAAAAAAAAAAAAIgACACAACAA=</HashCode>
+      <FileName>Gymnosperm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="lab71.Lower">
+    <Position X="4.5" Y="8.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab71.Plant">
+    <Position X="3.5" Y="10.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab71.Seaweed">
+    <Position X="5.75" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAAACAIAAA=</HashCode>
+      <FileName>Seaweed.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="lab71.Seminal">
+    <Position X="3" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Seminal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab71.Sporal">
+    <Position X="1" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Sporal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="lab71.Upper">
+    <Position X="2.5" Y="8.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Upper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
